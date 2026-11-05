@@ -92,7 +92,6 @@ A short introduction to my work and interests here:
             <span>Unity · C# · GPU</span>
         </div>
     </a>
-
     <a href="/projects/templateProject/" class="project-card">
         <img src="/assets/images/instancing.png" alt="Template Project test (comming soon)">
         <div class="project-info">
