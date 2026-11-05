@@ -93,6 +93,15 @@ A short introduction to my work and interests here:
         </div>
     </a>
 
+    <a href="/projects/templateProj/" class="project-card">
+        <img src="/assets/images/instancing.png" alt="Template Project test (comming soon)">
+        <div class="project-info">
+            <h2>Template Project h2</h2>
+            <p>Template project content</p>
+            <spanTech used</span>
+        </div>
+    </a>
+
 </div>
 
 <div class="skills-section" id="Skills">

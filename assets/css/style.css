@@ -186,6 +186,25 @@ img {
 }
 /* Mobile layout */
 
+/* Split Layout Container */
+.split-container {
+    display: flex;
+    gap: 40px; /* Space between the left and right columns */
+    margin-top: 30px;
+}
+
+/* Each column takes up equal width (50/50) */
+.split-column {
+    flex: 1;
+    min-width: 0; /* Prevents layout distortion from wide children */
+}
+@media (max-width: 768px) {
+    .split-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+
 @media (max-width: 650px) {
     .project-grid {
         grid-template-columns: 1fr;
