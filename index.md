@@ -77,7 +77,7 @@ Degree in ...
 - Responsibility or achievement.
 
 <div id="Skills">
-    <h3>Skills</h2>
+    <h3>Skills</h3>
     <ul class="skills-grid">
         <li>C#</li>
         <li>Python</li>
@@ -90,12 +90,11 @@ Degree in ...
         <li>3D Modeling</li>
         <li>Texturing</li>
         <li>Ilustration</li>
-
     </ul>
 </div>
 
 <div id="Software">
-    <h3>Software</h2>
+    <h3>Software</h3>
     <ul class="skills-grid">
         <li>Blender</li>
         <li>Unity</li>
