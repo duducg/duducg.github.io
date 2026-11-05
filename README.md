@@ -1,13 +1,13 @@
 # Portfolio build v1
 
-##Projects
+## Projects
 ### proj A
 - Description
 - Links
 
-#Education
+# Education
 - School
 
-#Experience
+# Experience
 - Work
 - 
