@@ -1,9 +1,13 @@
 tittle: Eduardo Rocha
 url: https://duducg.github.io/
 baseurl: ""
-logo: docs/assets/laCriatura.jpg
+logo: /assets/laCriatura.jpg
 description: Personal portfolio and CV
 theme: null
 markdown: kramdown
+
+sass:
+  sass_dir: _sass
+  style: compressed
 
 plugins: []
