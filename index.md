@@ -22,9 +22,11 @@ A short introduction to my work and interests here:
 
 [//]: <> (WORK)
 
-# My Projects
+<div id="WORK">
+    <h2>My Projects </h2>
+</div>
 
-<div class="project-grid">
+<div class="project-grid" >
 
     <a href="/projects/voxel-terrain/" class="project-card">
         <img src="/assets/images/voxel-terrain.png" alt="Voxel Terrain">

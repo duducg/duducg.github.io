@@ -1,5 +1,8 @@
 
 /* General page styling */
+html {
+  scroll-behavior: smooth;
+}
 
 * {
     box-sizing: border-box;
@@ -26,6 +29,13 @@ body {
 .site-header {
     border-bottom: 1px solid #333;
     padding: 20px 30px;
+    
+    /* Sticky header modifications */
+    position: -webkit-sticky; /* Safari support */
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: #151515;     
 }
 
 .site-header nav {
