@@ -57,24 +57,43 @@ A short introduction to my work and interests here:
         </div>
     </a>
 
+    <a href="/projects/instancing/" class="project-card">
+        <img src="/assets/images/instancing.png" alt="Large Scale Instancing (comming soon)">
+        <div class="project-info">
+            <h2>GPU Instancing</h2>
+            <p>Large-scale instance rendering, culling and LOD systems</p>
+            <span>Unity · C# · GPU</span>
+        </div>
+    </a>
+
+    <a href="/projects/instancing/" class="project-card">
+        <img src="/assets/images/instancing.png" alt="Large Scale Instancing (comming soon)">
+        <div class="project-info">
+            <h2>GPU Instancing</h2>
+            <p>Large-scale instance rendering, culling and LOD systems</p>
+            <span>Unity · C# · GPU</span>
+        </div>
+    </a>
+
+    <a href="/projects/instancing/" class="project-card">
+        <img src="/assets/images/instancing.png" alt="Large Scale Instancing (comming soon)">
+        <div class="project-info">
+            <h2>GPU Instancing</h2>
+            <p>Large-scale instance rendering, culling and LOD systems</p>
+            <span>Unity · C# · GPU</span>
+        </div>
+    </a>
+
+    <a href="/projects/instancing/" class="project-card">
+        <img src="/assets/images/instancing.png" alt="Large Scale Instancing (comming soon)">
+        <div class="project-info">
+            <h2>GPU Instancing</h2>
+            <p>Large-scale instance rendering, culling and LOD systems</p>
+            <span>Unity · C# · GPU</span>
+        </div>
+    </a>
+
 </div>
-
-[//]: <> (SKILLS AND BACKGROUND)
-## Education
-
-filling this out later need to make a template first
-### University Name school
-*2023 – 2026*
-
-Degree in ...
-
-## Experience
-
-### Company Name
-*2024 – Present*
-
-- Responsibility or achievement.
-- Responsibility or achievement.
 
 <div class="skills-section" id="Skills">
     <h2>Skills</h2>    
@@ -126,6 +145,23 @@ Degree in ...
         </ul>
     </div>
 </div>
+
+[//]: <> (SKILLS AND BACKGROUND)
+## Education
+
+filling this out later need to make a template first
+### University Name school
+*2023 – 2026*
+
+Degree in ...
+
+## Experience
+
+### Company Name
+*2024 – Present*
+
+- Responsibility or achievement.
+- Responsibility or achievement.
 
 # Curriculum Vitae
 [View my CV](cv/)
