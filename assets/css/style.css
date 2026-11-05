@@ -27,20 +27,21 @@ body {
 /* Navigation */
 
 .site-header {
+    border-bottom: 1px solid #333;
+    padding: 20px 30px;
+    
+    /* Sticky header modifications */
+    position: -webkit-sticky; /* Safari support */
     position: sticky;
     top: 0;
     z-index: 1000;
-
-    width: 100%;
-    padding: 20px 30px;
-
-    background: #151515;
-    border-bottom: 1px solid #333;
+    background: #151515;     
 }
 
 .site-header nav {
     max-width: 1000px;
-    margin: auto;
+    /* margin: auto; */
+    margin: 0 0 0 auto;
     display: flex;
     gap: 30px;
 }

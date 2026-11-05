@@ -22,7 +22,7 @@ A short introduction to my work and interests here:
 
 [//]: <> (WORK)
 
-<div id="WORK">
+<div id="Projects">
     <h2>My Projects </h2>
 </div>
 
