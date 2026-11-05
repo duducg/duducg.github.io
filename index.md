@@ -123,6 +123,9 @@ Degree in ...
             <li>MagicaVoxel</li>
             <li>ZBrush</li>
         </ul>
+        <!-- empty for now -->
+        <ul>
+        </ul>
     </div>
 </div>
 
