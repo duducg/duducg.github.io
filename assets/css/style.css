@@ -170,9 +170,9 @@ img {
 /* Skills */
 .skills-grid {
     display: grid;
-    grid-template-columns: repeat(3, 220px);
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 10px 8vw; 
-    justify-content: flex-start; 
+    justify-content: start; 
     
     padding-left: 0;  
     margin-top: 25px;                                 
@@ -186,7 +186,7 @@ img {
 
 .skills-grid li {
     margin-bottom: 12px; 
-    white-space: nowrap;
+    white-space: normal; 
 }
 /* Mobile layout */
 

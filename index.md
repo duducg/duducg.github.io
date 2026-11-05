@@ -76,8 +76,8 @@ Degree in ...
 - Responsibility or achievement.
 - Responsibility or achievement.
 
-<div class="skills-section">
-    <h3>Skills</h3>    
+<div class="skills-section" id="Skills">
+    <h2>Skills</h2>    
     <!-- The Grid Container -->
     <div class="skills-grid">
         <!-- Column 1 -->
@@ -86,16 +86,14 @@ Degree in ...
             <li>GLSL</li>
             <li>Character Rigging</li>
             <li>Texturing</li>
-        </ul>
-        
+        </ul>        
         <!-- Column 2 -->
         <ul>
             <li>Python</li>
             <li>Game Development</li>
             <li>Character Animation</li>
             <li>Illustration</li>
-        </ul>
-        
+        </ul>        
         <!-- Column 3 -->
         <ul>
             <li>HLSL</li>
@@ -128,11 +126,6 @@ Degree in ...
         </ul>
     </div>
 </div>
-
-## Languages
-
-- English
-- Portuguese
 
 # Curriculum Vitae
 [View my CV](cv/)
