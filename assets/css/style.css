@@ -29,7 +29,6 @@ body {
 .site-header {
     border-bottom: 1px solid #333;
     padding: 20px 30px;
-
     position: sticky;
     top: 0;
     z-index: 1000;
@@ -39,11 +38,11 @@ body {
 .site-header nav {
     max-width: 1000px;
     margin: 0 auto;
+    padding: 0 30px;
     display: flex;
     justify-content: flex-end;
     gap: 30px;
 }
-
 .site-header a {
     color: #aaa;
     text-decoration: none;
