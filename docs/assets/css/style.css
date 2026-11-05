@@ -1,0 +1,47 @@
+
+---
+---
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #151515;
+    color: #e5e5e5;
+    line-height: 1.7;
+}
+
+.container {
+    max-width: 900px;
+    margin: 60px auto;
+    padding: 0 24px;
+}
+
+.site-header {
+    border-bottom: 1px solid #333;
+    padding: 20px;
+}
+
+.site-header nav {
+    max-width: 900px;
+    margin: auto;
+    display: flex;
+    gap: 30px;
+}
+
+a {
+    color: #78a9ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1, h2, h3 {
+    color: #fff;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 8px;
+}

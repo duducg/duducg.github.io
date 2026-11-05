@@ -1,4 +1,9 @@
 tittle: Eduardo Rocha
+url: https://duducg.github.io/
+baseurl: ""
 logo: docs/assets/laCriatura.jpg
-description: human bean
-theme: jekyll-theme-minimal
+description: Personal portfolio and CV
+theme: null
+markdown: kramdown
+
+plugins: []
