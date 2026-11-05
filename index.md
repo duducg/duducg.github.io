@@ -76,34 +76,54 @@ Degree in ...
 - Responsibility or achievement.
 - Responsibility or achievement.
 
-<div id="Skills">
-    <h3>Skills</h3>
-    <ul class="skills-grid">
-        <li>C#</li>
-        <li>Python</li>
-        <li>HLSL</li>
-        <li>GLSL</li>        
-        <li>Game Development</li>
-        <li>Game Programming</li>
-        <li>Character Rigging</li>
-        <li>Character Animation</li>
-        <li>3D Modeling</li>
-        <li>Texturing</li>
-        <li>Ilustration</li>
-    </ul>
+<div class="skills-section">
+    <h3>Skills</h3>    
+    <!-- The Grid Container -->
+    <div class="skills-grid">
+        <!-- Column 1 -->
+        <ul>
+            <li>C#</li>
+            <li>GLSL</li>
+            <li>Character Rigging</li>
+            <li>Texturing</li>
+        </ul>
+        
+        <!-- Column 2 -->
+        <ul>
+            <li>Python</li>
+            <li>Game Development</li>
+            <li>Character Animation</li>
+            <li>Illustration</li>
+        </ul>
+        
+        <!-- Column 3 -->
+        <ul>
+            <li>HLSL</li>
+            <li>Game Programming</li>
+            <li>3D Modeling</li>
+        </ul>
+    </div>
 </div>
 
-<div id="Software">
-    <h3>Software</h3>
-    <ul class="skills-grid">
-        <li>Blender</li>
-        <li>Unity</li>
-        <li>Photoshop</li>
-        <li>Clip Studio</li>
-        <li>Aseprite</li>
-        <li>Substance Painter</li>
-        <li>MagicaVoxel</li>
-    </ul>
+<div class="skills-section" id="Software">
+    <h3>Software</h3>    
+    <!-- The Grid Container -->
+    <div class="skills-grid">
+        <!-- Column 1 -->
+        <ul>
+            <li>Blender</li>
+            <li>Unity</li>
+            <li>Photoshop</li>
+            <li>Clip Studio</li>
+        </ul>        
+        <!-- Column 2 -->
+        <ul>
+            <li>Aseprite</li>
+            <li>Substance Painter</li>
+            <li>MagicaVoxel</li>
+            <li>ZBrush</li>
+        </ul>
+    </div>
 </div>
 
 ## Languages
