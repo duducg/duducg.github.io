@@ -6,7 +6,9 @@ title: Home
 # Eduardo Rocha
 
 [//]: <> (ABOUT)
-# About Me
+<div id="About">
+    <h2>About me </h2>
+</div>
 
 Interrests and all that here:
 
@@ -23,7 +25,7 @@ A short introduction to my work and interests here:
 [//]: <> (WORK)
 
 <div id="Projects">
-    <h2>My Projects </h2>
+    <h2>Projects</h2>
 </div>
 
 <div class="project-grid" >
@@ -74,12 +76,36 @@ Degree in ...
 - Responsibility or achievement.
 - Responsibility or achievement.
 
-## Skills
+<div id="Skills">
+    <h3>Skills</h2>
+    <ul class="skills-grid">
+        <li>C#</li>
+        <li>Python</li>
+        <li>HLSL</li>
+        <li>GLSL</li>        
+        <li>Game Development</li>
+        <li>Game Programming</li>
+        <li>Character Rigging</li>
+        <li>Character Animation</li>
+        <li>3D Modeling</li>
+        <li>Texturing</li>
+        <li>Ilustration</li>
 
-- C#
-- Python
-- Unity
-- Git
+    </ul>
+</div>
+
+<div id="Software">
+    <h3>Software</h2>
+    <ul class="skills-grid">
+        <li>Blender</li>
+        <li>Unity</li>
+        <li>Photoshop</li>
+        <li>Clip Studio</li>
+        <li>Aseprite</li>
+        <li>Substance Painter</li>
+        <li>MagicaVoxel</li>
+    </ul>
+</div>
 
 ## Languages
 

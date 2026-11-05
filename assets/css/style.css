@@ -167,6 +167,13 @@ img {
     color: #78a9ff;
 }
 
+/* Skills */
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 10px 40px;                       
+    padding-left: 20px;                   
+}
 /* Mobile layout */
 
 @media (max-width: 650px) {
