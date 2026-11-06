@@ -63,4 +63,5 @@ permalink: /projects/templateProject/
     currentIndex = index;
     updateCarousel();
   }
+  
 </script>
